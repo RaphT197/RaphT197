@@ -1,0 +1,13 @@
+def prime_finder(n):
+
+    #list of all prime numbers
+    primes = [2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, 53, 59, 61, 67, 71, 73, 79, 83, 89, 97]
+    are_prime = [] #list to add all the prime numbers found
+    for prime in primes:
+        if prime > n:
+            break
+        elif (prime / prime == 1) and (prime / 1 == prime):  #this will make sure that the number is prime before adding it
+            are_prime.append(prime)
+    return are_prime
+
+print(prime_finder(11))
