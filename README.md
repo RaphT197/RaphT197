@@ -1,5 +1,1 @@
--  😅 Hey, my name is Raphael or ArsdatP.
--  😁 I'm currently 23 years old and I am trying to learn python!
--  🇧🇷 I'm originally from Brazil, but I have been living in the United States for the past 5 years!
--  🦾 I will only be posting some "projects" from some online courses I am currently taking, so I can motivate me to learn more about programming!
-- if you ever come accross this let me know if you have any tips for me on how to improve myself!
+
