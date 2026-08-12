@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Raphael!
 
-I’m a Software Development student at **Valencia College** (graduating in early 2027) with a strong interest in **Back-End Engineering**.  
+I’m a Software Development student at **Valencia College** (graduating in 2026) with a strong interest in **Back-End Engineering**.  
 I enjoy building projects that challenge me to learn new skills and strengthen my coding abilities.  
 
 ---
